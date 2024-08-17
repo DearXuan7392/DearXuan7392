@@ -1,4 +1,4 @@
-Hi, Welcome to my world, I'm a student from China. There are some interesting projects here, hope you like it.
+Hi, welcome to my world. There are some interesting projects here, hope you like them.
 
 + Minecraft Mods
 
